@@ -1,0 +1,54 @@
+div.formulario {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+        border: 15px  rgb(223, 32, 111);
+        padding-top: 50px;
+        padding-right: 250px;
+        padding-bottom: 200px;
+        padding-left: 250px;
+        margin: 50px
+}
+
+input {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(219, 42, 125);
+    color: rgb(139, 139, 139);
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+    box-shadow: 10px 6px 5px black;
+}
+
+input[type="submit"] {
+    width: 150px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    box-shadow: 10px 6px 5px black;
+}
+
+.onclick {
+
+    background-color: rgb(219, 42, 125);
+    border: 2px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+    box-shadow: 10px 6px 5px rgb(249, 203, 255);
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+h1 {
+color: rgb(202, 5, 97);
+text-justify: auto;
+}
+
+
